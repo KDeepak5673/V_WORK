@@ -6,6 +6,7 @@ import Featured from "../../components/featured/Featured";
 import CatCard from "../../components/catCard/CatCard";
 import { cards, projects } from "../../data";
 import ProjectCard from "../../components/projectCard/ProjectCard";
+import YouTube from 'react-youtube';
 
 function Home() {
     return (
@@ -55,7 +56,7 @@ function Home() {
                         </p>
                     </div>
                     <div className="item">
-                        <video src="./img/video.mp4" controls />
+                        <YouTube url='https://youtu.be/Poo7kk8DBr4?si=OMPYn0T7pIkqban0' />
                     </div>
                 </div>
             </div>
