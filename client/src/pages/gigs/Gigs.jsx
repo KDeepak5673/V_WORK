@@ -44,9 +44,9 @@ function Gigs() {
         <div className="gigs">
             <div className="container">
                 <span className="breadcrumbs">V-Work Graphics & Design </span>
-                <h1>AI Artists</h1>
+                <h1>GIGS</h1>
                 <p>
-                    Explore the boundaries of art and technology with Liverr's AI artists
+                    Explore the boundaries of art and technology with V_WORK
                 </p>
                 <div className="menu">
                     <div className="left">

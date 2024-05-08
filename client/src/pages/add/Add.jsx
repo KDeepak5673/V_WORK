@@ -10,7 +10,6 @@ const Add = () => {
   const [singleFile, setSingleFile] = useState(undefined);
   const [files, setFiles] = useState([]);
   const [uploading, setUploading] = useState(false);
-
   const [state, dispatch] = useReducer(gigReducer, INITIAL_STATE);
 
   const handleChange = (e) => {

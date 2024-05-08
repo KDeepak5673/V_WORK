@@ -29,7 +29,7 @@ const connect = async () => {
   }
 };
 
-app.use(cors({ origin: "https://v-work.vercel.app", methods: ["POST" , "GET"] ,credentials: true }));
+app.use(cors({ origin: "http://localhost:5173", methods: ["POST" , "GET"] ,credentials: true }));
 app.use(express.json());
 app.use(cookieParser());
 

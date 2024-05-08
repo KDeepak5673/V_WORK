@@ -46,7 +46,7 @@ function Navbar() {
         <div className="links">
           {/* <span>V-WORK Business</span> */}
           {/* <span>Explore</span> */}
-          {/* <span>English</span> */}
+          {/* <span>English</span> */}  
           {!currentUser?.isSeller && <Link className="link">  Become a Seller</Link>}
           {currentUser ? (
             <div className="user" onClick={() => setOpen(!open)}>
@@ -75,7 +75,7 @@ function Navbar() {
                   </Link>
                 </div>
               )}
-            </div>
+            </div>  
           ) : (
             <>
               <Link to="/login" className="link">Sign in</Link>
