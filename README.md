@@ -6,9 +6,9 @@ V-WORK
 
 * **Key Features:** User Authentication, Order Management, Ratings and Reviews, Real-time Messaging, Secure Payment Processing.
 
-Promotes a flexible work environment, enabling students to showcase their skills and gain real-world experience.
+* Promotes a flexible work environment, enabling students to showcase their skills and gain real-world experience.
 
-**Frontend:** React, SCSS 
-**Backend:** Express.js, Node.js
-**Database:** MongoDB 
-**Other:** JavaScript, Cloudinary for image upload, Stripe for payment processing, Vercel for deployment.
+  **Frontend:** React, SCSS 
+  **Backend:** Express.js, Node.js
+  **Database:** MongoDB 
+  **Other:** JavaScript, Cloudinary for image upload, Stripe for payment processing, Vercel for deployment.
