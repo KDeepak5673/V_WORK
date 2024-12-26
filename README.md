@@ -8,7 +8,7 @@ V-WORK
 
 * Promotes a flexible work environment, enabling students to showcase their skills and gain real-world experience.
 
-  **Frontend:** React, SCSS 
+  * **Frontend:** React, SCSS 
   **Backend:** Express.js, Node.js
   **Database:** MongoDB 
   **Other:** JavaScript, Cloudinary for image upload, Stripe for payment processing, Vercel for deployment.
